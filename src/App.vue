@@ -8,8 +8,8 @@
         </div>
 
         <div id="info">
-            <a href="https://github.com/AJLoveChina/theshy" target="_blank">open source link here</a><br>
-            <span class="nigeerhuo">&#xe8d2;</span>Idea by LW Mao、HYY && Developed by <a href="https://github.com/AJLoveChina" target="_blank">霸都丶傲天</a>
+            <a href="https://github.com/AJLoveChina/suiji" target="_blank">开源地址</a><br>
+            <span class="nigeerhuo">&#xe8d2;</span>Idea by LW Mao、HYY && Developed by <a href="https://github.com/abokecn" target="_blank">一个人</a><p>Copyright © 2023-2023 我的主页</p>
         </div>
 
         <main>

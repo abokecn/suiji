@@ -1,8 +1,8 @@
 <template>
     <div id="app" @click="click">
         <div id="desc" v-if="!bStarted">
-            <div class="pp title">The Shy</div>
-            <div class="pp">😄大家将一个手指按到屏幕上任何位置, 系统随机挑选一个shy shy的Ta, 随机决定是谁喝酒、取外卖、洗碗等等</div>
+            <div class="pp title">随机抽人</div>
+            <div class="pp">😄大家将一个手指按到屏幕上任何位置, 系统随机挑选一个“幸运儿”, 随机决定是谁喝酒、取外卖、洗碗等等</div>
 
             <div class="nigeerhuo tab-icon">&#xe6f7;</div>
         </div>
